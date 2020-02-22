@@ -1,38 +1,31 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="anmol.github.io" resolutions="1x" timestamp="1564866951818">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="anmolsrivastava.in" resolutions="1x" timestamp="1582399663659">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="329939653" ref="portfolio:projects:bio:awards:index:publications"/>
-    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="portfolio:projects:bio:awards:index:publications"/>
-    <file name="portfolio.css" crc="325391391" ref="portfolio"/>
-    <file name="projects.css" crc="4025984522" ref="projects"/>
-    <file name="bio.css" crc="4157904501" ref="bio"/>
-    <file name="awards.css" crc="325391391" ref="awards"/>
-    <file name="index.css" crc="3917130393" ref="index"/>
-    <file name="nomq_index.css" crc="3853214085" ref="index"/>
-    <file name="publications.css" crc="4178319123" ref="publications"/>
+    <file name="master_a-master.css" crc="4152137812" ref="index:courses--anmol-srivastava:awards--anmol-srivastava:projects:publications"/>
+    <file name="index.css" crc="309827105" ref="index"/>
+    <file name="courses--anmol-srivastava.css" crc="457593750" ref="courses--anmol-srivastava"/>
+    <file name="awards--anmol-srivastava.css" crc="3885195503" ref="awards--anmol-srivastava"/>
+    <file name="projects.css" crc="532089474" ref="projects"/>
+    <file name="publications.css" crc="3988317567" ref="publications"/>
   </folder>
   <folder name="assets">
     <file name="accs16.pdf" crc="3836658651" seo="true" mt="1560855102000"/>
     <file name="icmi16_dc.pdf" crc="4087637331" seo="true" mt="1560855093000"/>
     <file name="icmi16_demo.pdf" crc="70544462" seo="true" mt="1560855063000"/>
+    <file name="p_v4.tif" crc="535845494" seo="true" mt="1582369380000"/>
+    <file name="anmolsrivastava_poster.pdf" crc="343740364" seo="true" mt="1568380694000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:bio:projects:awards:publications:portfolio"/>
-    <file name="museutils.js" crc="340535759" ref="index:bio:projects:awards:publications:portfolio"/>
-    <file name="whatinput.js" crc="86476730" ref="index:bio:projects:awards:publications:portfolio"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:bio:projects:awards:publications:portfolio"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index:bio:projects:awards:publications:portfolio"/>
-    <file name="jquery.watch.js" crc="51536988" ref="bio:projects:awards:publications:portfolio"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:projects:awards--anmol-srivastava:publications:courses--anmol-srivastava"/>
+    <file name="museutils.js" crc="340535759" ref="index:projects:awards--anmol-srivastava:publications:courses--anmol-srivastava"/>
+    <file name="whatinput.js" crc="86476730" ref="index:projects:awards--anmol-srivastava:publications:courses--anmol-srivastava"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:projects:awards--anmol-srivastava:publications:courses--anmol-srivastava"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:projects:awards--anmol-srivastava:publications:courses--anmol-srivastava"/>
+    <file name="require.js" crc="7928878" ref="index:projects:awards--anmol-srivastava:publications:courses--anmol-srivastava"/>
   </folder>
   <folder name="images">
-    <file name="img_20190223_171230 copy.jpg" crc="4266062845" seo="true" ref="index">
+    <file name="screenshot 2019-07-07 at 13411 am.png" crc="4135695859" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="screenshot 2019-07-07 at 13411 am.jpg" crc="3852773594" seo="true" ref="bio">
-      <caption webpage="bio" alt=""/>
     </file>
     <file name="screenshot 2019-08-04 at 123106 am.jpg" crc="4168840391" seo="true" ref="projects">
       <caption webpage="projects" alt=""/>
@@ -46,11 +39,13 @@
     <file name="screenshot 2019-07-07 at 43159 pm.jpg" crc="4173932899" seo="true" ref="projects">
       <caption webpage="projects" alt=""/>
     </file>
+    <file name="p_v4.jpg" crc="522122403" seo="true" ref="awards--anmol-srivastava">
+      <caption webpage="awards--anmol-srivastava" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="126556748" seo="true" mt="1564866828517" redirect="true"/>
-  <file name="bio.html" crc="3903115682" seo="true" mt="1564866692964" redirect="true"/>
-  <file name="projects.html" crc="3840196295" seo="true" mt="1564866621019" redirect="true"/>
-  <file name="awards.html" crc="3850204952" seo="true" mt="1564866621019" redirect="true"/>
-  <file name="publications.html" crc="55525441" seo="true" mt="1564866773056" redirect="true"/>
-  <file name="portfolio.html" crc="141287207" seo="true" mt="1564866621019" redirect="true"/>
+  <file name="index.html" crc="3950714759" seo="true" mt="1582399351044" redirect="true"/>
+  <file name="projects.html" crc="373561825" seo="true" mt="1582398292107" redirect="true"/>
+  <file name="awards--anmol-srivastava.html" crc="332450787" seo="true" mt="1582398596048" redirect="true"/>
+  <file name="publications.html" crc="227649168" seo="true" mt="1582399629744" redirect="true"/>
+  <file name="courses--anmol-srivastava.html" crc="4289427530" seo="true" mt="1582399436253" redirect="true"/>
 </manifest>

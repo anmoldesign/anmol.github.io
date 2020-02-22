@@ -1,73 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://anmol.github.io/index.html</loc>
-    <lastmod>2019-08-04</lastmod>
+    <loc>http://anmolsrivastava.in/index.html</loc>
+    <lastmod>2020-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://anmol.github.io/images/img_20190223_171230%20copy.jpg</image:loc>
+      <image:loc>http://anmolsrivastava.in/images/screenshot%202019-07-07%20at%2013411%20am.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://anmol.github.io/bio.html</loc>
-    <lastmod>2019-08-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://anmol.github.io/images/screenshot%202019-07-07%20at%2013411%20am.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://anmol.github.io/projects.html</loc>
-    <lastmod>2019-08-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://anmol.github.io/images/screenshot%202019-08-04%20at%20123106%20am.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://anmol.github.io/images/screenshot%202019-07-07%20at%2043527%20pm.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://anmol.github.io/images/screenshot%202019-07-07%20at%2042243%20pm.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://anmol.github.io/images/screenshot%202019-07-07%20at%2043159%20pm.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://anmol.github.io/awards.html</loc>
-    <lastmod>2019-08-04</lastmod>
+    <loc>http://anmolsrivastava.in/publications.html</loc>
+    <lastmod>2020-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://anmol.github.io/publications.html</loc>
-    <lastmod>2019-08-04</lastmod>
+    <loc>http://anmolsrivastava.in/awards--anmol-srivastava.html</loc>
+    <lastmod>2020-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://anmolsrivastava.in/images/p_v4.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://anmolsrivastava.in/courses--anmol-srivastava.html</loc>
+    <lastmod>2020-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://anmol.github.io/portfolio.html</loc>
-    <lastmod>2019-08-04</lastmod>
+    <loc>http://anmolsrivastava.in/projects.html</loc>
+    <lastmod>2020-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://anmolsrivastava.in/images/screenshot%202019-08-04%20at%20123106%20am.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://anmolsrivastava.in/images/screenshot%202019-07-07%20at%2043527%20pm.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://anmolsrivastava.in/images/screenshot%202019-07-07%20at%2042243%20pm.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://anmolsrivastava.in/images/screenshot%202019-07-07%20at%2043159%20pm.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://anmol.github.io/assets/icmi16_demo.pdf</loc>
+    <loc>http://anmolsrivastava.in/assets/icmi16_demo.pdf</loc>
     <lastmod>2019-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://anmol.github.io/assets/accs16.pdf</loc>
+    <loc>http://anmolsrivastava.in/assets/p_v4.tif</loc>
+    <lastmod>2020-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://anmolsrivastava.in/assets/anmolsrivastava_poster.pdf</loc>
+    <lastmod>2019-09-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://anmolsrivastava.in/assets/icmi16_dc.pdf</loc>
     <lastmod>2019-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://anmol.github.io/assets/icmi16_dc.pdf</loc>
+    <loc>http://anmolsrivastava.in/assets/accs16.pdf</loc>
     <lastmod>2019-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
