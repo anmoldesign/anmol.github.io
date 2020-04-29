@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="anmolsrivastava.in" resolutions="1x" timestamp="1587142345369">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="anmolsrivastava.in" resolutions="1x" timestamp="1588152472154">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="354252636" ref="awards--anmol-srivastava:courses--anmol-srivastava:publications:covid19:index:projects"/>
-    <file name="awards--anmol-srivastava.css" crc="4033000932" ref="awards--anmol-srivastava"/>
-    <file name="courses--anmol-srivastava.css" crc="465784246" ref="courses--anmol-srivastava"/>
-    <file name="publications.css" crc="151511396" ref="publications"/>
-    <file name="covid19.css" crc="1071378" ref="covid19"/>
+    <file name="master_a-master.css" crc="354252636" ref="covid19:index:projects:courses--anmol-srivastava:awards--anmol-srivastava:publications"/>
+    <file name="covid19.css" crc="3909528038" ref="covid19"/>
     <file name="index.css" crc="3877154766" ref="index"/>
     <file name="projects.css" crc="226469469" ref="projects"/>
+    <file name="courses--anmol-srivastava.css" crc="465784246" ref="courses--anmol-srivastava"/>
+    <file name="awards--anmol-srivastava.css" crc="4033000932" ref="awards--anmol-srivastava"/>
+    <file name="publications.css" crc="151511396" ref="publications"/>
   </folder>
   <folder name="assets">
     <file name="accs16.pdf" crc="3836658651" seo="true" mt="1560855102000"/>
@@ -82,5 +82,5 @@
   <file name="awards--anmol-srivastava.html" crc="221685296" seo="true" mt="1587140538386" redirect="true"/>
   <file name="publications.html" crc="72360322" seo="true" mt="1586762458062" redirect="true"/>
   <file name="courses--anmol-srivastava.html" crc="277108253" seo="true" mt="1586342546821" redirect="true"/>
-  <file name="covid19.html" crc="3892286043" seo="true" mt="1586774301136" redirect="true"/>
+  <file name="covid19.html" crc="108951811" seo="true" mt="1588152392488" redirect="true"/>
 </manifest>
