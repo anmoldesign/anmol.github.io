@@ -70,14 +70,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://anmolsrivastava.in/publications.html</loc>
-    <lastmod>2020-05-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://anmolsrivastava.in/tinkering--anmol-srivastava.html</loc>
-    <lastmod>2020-05-04</lastmod>
+    <lastmod>2020-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -140,6 +134,30 @@
     <image:image>
       <image:loc>http://anmolsrivastava.in/images/img_20200221_15384575x56.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://anmolsrivastava.in/images/img_20190918_150617.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://anmolsrivastava.in/images/img_20190918_150548.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://anmolsrivastava.in/images/img_20190909_143743.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://anmolsrivastava.in/images/img_20190918_145753.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://anmolsrivastava.in/images/img_20190918_150617-crop-u4936.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://anmolsrivastava.in/images/img_20190918_15054875x56.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://anmolsrivastava.in/images/img_20190909_14374375x56.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://anmolsrivastava.in/images/img_20190918_14575375x56.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://anmolsrivastava.in/covid19.html</loc>
@@ -154,26 +172,14 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://anmolsrivastava.in/publications.html</loc>
+    <lastmod>2020-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://anmolsrivastava.in/courses--anmol-srivastava.html</loc>
     <lastmod>2020-05-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://anmolsrivastava.in/assets/icmi16_dc.pdf</loc>
-    <lastmod>2019-06-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://anmolsrivastava.in/assets/accs16.pdf</loc>
-    <lastmod>2019-06-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://anmolsrivastava.in/assets/icmi16_demo.pdf</loc>
-    <lastmod>2019-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -184,8 +190,32 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://anmolsrivastava.in/assets/icmi16_dc.pdf</loc>
+    <lastmod>2019-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://anmolsrivastava.in/assets/anmolsrivastava_poster2.pdf</loc>
+    <lastmod>2020-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://anmolsrivastava.in/assets/accs16.pdf</loc>
+    <lastmod>2019-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://anmolsrivastava.in/assets/p_v4.tif</loc>
     <lastmod>2020-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://anmolsrivastava.in/assets/icmi16_demo.pdf</loc>
+    <lastmod>2019-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
