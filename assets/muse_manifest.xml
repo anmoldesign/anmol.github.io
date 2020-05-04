@@ -1,0 +1,158 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="anmolsrivastava.in" resolutions="1x" timestamp="1588569106525">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4246611020" ref="index:tinkering--anmol-srivastava:awards--anmol-srivastava:publications:courses--anmol-srivastava:projects:comics--anmol-srivastava:covid19"/>
+    <file name="index.css" crc="515196415" ref="index"/>
+    <file name="tinkering--anmol-srivastava.css" crc="4215443986" ref="tinkering--anmol-srivastava"/>
+    <file name="awards--anmol-srivastava.css" crc="3791372844" ref="awards--anmol-srivastava"/>
+    <file name="publications.css" crc="7802508" ref="publications"/>
+    <file name="courses--anmol-srivastava.css" crc="4020564847" ref="courses--anmol-srivastava"/>
+    <file name="projects.css" crc="4253191937" ref="projects"/>
+    <file name="comics--anmol-srivastava.css" crc="392016236" ref="comics--anmol-srivastava"/>
+    <file name="covid19.css" crc="490271510" ref="covid19"/>
+  </folder>
+  <folder name="assets">
+    <file name="accs16.pdf" crc="3836658651" seo="true" mt="1560855102000"/>
+    <file name="icmi16_dc.pdf" crc="4087637331" seo="true" mt="1560855093000"/>
+    <file name="icmi16_demo.pdf" crc="70544462" seo="true" mt="1560855063000"/>
+    <file name="p_v4.tif" crc="535845494" seo="true" mt="1582369380000"/>
+    <file name="anmolsrivastava_poster.pdf" crc="343740364" seo="true" mt="1568380694000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:projects:awards--anmol-srivastava:publications:courses--anmol-srivastava:covid19:tinkering--anmol-srivastava:comics--anmol-srivastava"/>
+    <file name="museutils.js" crc="340535759" ref="index:projects:awards--anmol-srivastava:publications:courses--anmol-srivastava:covid19:tinkering--anmol-srivastava:comics--anmol-srivastava"/>
+    <file name="whatinput.js" crc="86476730" ref="index:projects:awards--anmol-srivastava:publications:courses--anmol-srivastava:covid19:tinkering--anmol-srivastava:comics--anmol-srivastava"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:projects:awards--anmol-srivastava:publications:courses--anmol-srivastava:covid19:tinkering--anmol-srivastava:comics--anmol-srivastava"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:projects:awards--anmol-srivastava:publications:courses--anmol-srivastava:covid19:tinkering--anmol-srivastava:comics--anmol-srivastava"/>
+    <file name="require.js" crc="7928878" ref="index:projects:awards--anmol-srivastava:publications:courses--anmol-srivastava:covid19:tinkering--anmol-srivastava:comics--anmol-srivastava"/>
+    <file name="webpro.js" crc="4059564322" ref="tinkering--anmol-srivastava"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="tinkering--anmol-srivastava"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="tinkering--anmol-srivastava"/>
+    <file name="touchswipe.js" crc="4075097462" ref="tinkering--anmol-srivastava"/>
+  </folder>
+  <folder name="images">
+    <file name="screenshot 2019-07-07 at 13411 am.png" crc="4135695859" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="poster rpe.jpg" crc="361736153" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="screenshot 2019-07-07 at 43527 pm.jpg" crc="3997902582" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="screenshot 2019-07-07 at 42243 pm.jpg" crc="4267337880" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="screenshot 2019-07-07 at 43159 pm.jpg" crc="4173932899" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="screenshot 2020-04-13 at 114241 am.jpg" crc="91110821" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="screenshot 2019-08-04 at 123106 am.jpg" crc="4168840391" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="screenshot 2019-06-19 at 35144 pm.jpg" crc="529154323" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="screenshot 2019-06-19 at 34955 pm.jpg" crc="413057919" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="screenshot 2019-06-19 at 35031 pm.jpg" crc="3907622060" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="screenshot 2019-06-19 at 35014 pm.jpg" crc="4044576026" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="pasted image 485x556.jpg" crc="3946710306" seo="true" ref="awards--anmol-srivastava">
+      <caption webpage="awards--anmol-srivastava" alt=""/>
+    </file>
+    <file name="design awards_finalist badge 2018.png" crc="106977278" seo="true" ref="awards--anmol-srivastava">
+      <caption webpage="awards--anmol-srivastava" alt=""/>
+    </file>
+    <file name="pasted image 603x511.jpg" crc="327618600" seo="true" ref="awards--anmol-srivastava">
+      <caption webpage="awards--anmol-srivastava" alt=""/>
+    </file>
+    <file name="pasted image 548x263.jpg" crc="511485611" seo="true" ref="awards--anmol-srivastava">
+      <caption webpage="awards--anmol-srivastava" alt=""/>
+    </file>
+    <file name="pasted image 547x221.jpg" crc="434605442" seo="true" ref="awards--anmol-srivastava">
+      <caption webpage="awards--anmol-srivastava" alt=""/>
+    </file>
+    <file name="pasted image 600x350.jpg" crc="4012110699" seo="true" ref="awards--anmol-srivastava">
+      <caption webpage="awards--anmol-srivastava" alt=""/>
+    </file>
+    <file name="line.png" crc="3957647190" seo="true" ref="tinkering--anmol-srivastava">
+      <caption webpage="tinkering--anmol-srivastava" alt=""/>
+    </file>
+    <file name="img_20200107_162047.jpg" crc="4071336533" seo="true" ref="tinkering--anmol-srivastava">
+      <caption webpage="tinkering--anmol-srivastava" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="tinkering--anmol-srivastava"/>
+    <file name="img_20200106_162240.jpg" crc="155401743" seo="true" ref="tinkering--anmol-srivastava">
+      <caption webpage="tinkering--anmol-srivastava" alt=""/>
+    </file>
+    <file name="img_20200106_161601.jpg" crc="3927849034" seo="true" ref="tinkering--anmol-srivastava">
+      <caption webpage="tinkering--anmol-srivastava" alt=""/>
+    </file>
+    <file name="img_20200106_155859.jpg" crc="3957167332" seo="true" ref="tinkering--anmol-srivastava">
+      <caption webpage="tinkering--anmol-srivastava" alt=""/>
+    </file>
+    <file name="img_20200106_143802.jpg" crc="3931883147" seo="true" ref="tinkering--anmol-srivastava">
+      <caption webpage="tinkering--anmol-srivastava" alt=""/>
+    </file>
+    <file name="img_20200107_16204775x56.jpg" crc="4073238503" seo="true" ref="tinkering--anmol-srivastava">
+      <caption webpage="tinkering--anmol-srivastava" alt=""/>
+    </file>
+    <file name="img_20200106_162240-crop-u4272.jpg" crc="133673373" seo="true" ref="tinkering--anmol-srivastava">
+      <caption webpage="tinkering--anmol-srivastava" alt=""/>
+    </file>
+    <file name="img_20200106_161601-crop-u4268.jpg" crc="372771856" seo="true" ref="tinkering--anmol-srivastava">
+      <caption webpage="tinkering--anmol-srivastava" alt=""/>
+    </file>
+    <file name="img_20200106_15585975x56.jpg" crc="4258442311" seo="true" ref="tinkering--anmol-srivastava">
+      <caption webpage="tinkering--anmol-srivastava" alt=""/>
+    </file>
+    <file name="img_20200106_143802-crop-u4270.jpg" crc="282949723" seo="true" ref="tinkering--anmol-srivastava">
+      <caption webpage="tinkering--anmol-srivastava" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="tinkering--anmol-srivastava"/>
+    <file name="partition.png" crc="523822949" seo="true" ref="tinkering--anmol-srivastava">
+      <caption webpage="tinkering--anmol-srivastava" alt=""/>
+      <caption webpage="tinkering--anmol-srivastava" alt=""/>
+      <caption webpage="tinkering--anmol-srivastava" alt=""/>
+    </file>
+    <file name="img_20200221_165005.jpg" crc="127581883" seo="true" ref="tinkering--anmol-srivastava">
+      <caption webpage="tinkering--anmol-srivastava" alt=""/>
+    </file>
+    <file name="img_20200221_164705.jpg" crc="375415963" seo="true" ref="tinkering--anmol-srivastava">
+      <caption webpage="tinkering--anmol-srivastava" alt=""/>
+    </file>
+    <file name="img_20200221_150752.jpg" crc="4127108852" seo="true" ref="tinkering--anmol-srivastava">
+      <caption webpage="tinkering--anmol-srivastava" alt=""/>
+    </file>
+    <file name="img_20200221_153845.jpg" crc="401579159" seo="true" ref="tinkering--anmol-srivastava">
+      <caption webpage="tinkering--anmol-srivastava" alt=""/>
+    </file>
+    <file name="img_20200221_16500575x56.jpg" crc="311638611" seo="true" ref="tinkering--anmol-srivastava">
+      <caption webpage="tinkering--anmol-srivastava" alt=""/>
+    </file>
+    <file name="img_20200221_16470575x56.jpg" crc="3761720360" seo="true" ref="tinkering--anmol-srivastava">
+      <caption webpage="tinkering--anmol-srivastava" alt=""/>
+    </file>
+    <file name="img_20200221_15075275x56.jpg" crc="4233828503" seo="true" ref="tinkering--anmol-srivastava">
+      <caption webpage="tinkering--anmol-srivastava" alt=""/>
+    </file>
+    <file name="img_20200221_15384575x56.jpg" crc="3788099587" seo="true" ref="tinkering--anmol-srivastava">
+      <caption webpage="tinkering--anmol-srivastava" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4270845194" seo="true" mt="1588449196862" redirect="true"/>
+  <file name="projects.html" crc="118874035" seo="true" mt="1588449196862" redirect="true"/>
+  <file name="awards--anmol-srivastava.html" crc="48913531" seo="true" mt="1588531015676" redirect="true"/>
+  <file name="publications.html" crc="3810715252" seo="true" mt="1588449196862" redirect="true"/>
+  <file name="courses--anmol-srivastava.html" crc="278638185" seo="true" mt="1588449196862" redirect="true"/>
+  <file name="covid19.html" crc="456739854" seo="true" mt="1588449709480" redirect="true"/>
+  <file name="tinkering--anmol-srivastava.html" crc="4060719061" seo="true" mt="1588569060170" redirect="true"/>
+  <file name="comics--anmol-srivastava.html" crc="4171131286" seo="true" mt="1588449196862" redirect="true"/>
+</manifest>
