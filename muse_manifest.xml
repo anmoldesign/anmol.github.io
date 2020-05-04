@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="anmolsrivastava.in" resolutions="1x" timestamp="1588531074515">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="anmolsrivastava.in" resolutions="1x" timestamp="1588569286195">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="4246611020" ref="index:tinkering--anmol-srivastava:awards--anmol-srivastava:publications:courses--anmol-srivastava:projects:comics--anmol-srivastava:covid19"/>
     <file name="index.css" crc="515196415" ref="index"/>
-    <file name="tinkering--anmol-srivastava.css" crc="3946380846" ref="tinkering--anmol-srivastava"/>
+    <file name="tinkering--anmol-srivastava.css" crc="4215443986" ref="tinkering--anmol-srivastava"/>
     <file name="awards--anmol-srivastava.css" crc="3791372844" ref="awards--anmol-srivastava"/>
     <file name="publications.css" crc="7802508" ref="publications"/>
     <file name="courses--anmol-srivastava.css" crc="4020564847" ref="courses--anmol-srivastava"/>
@@ -153,6 +153,6 @@
   <file name="publications.html" crc="3810715252" seo="true" mt="1588449196862" redirect="true"/>
   <file name="courses--anmol-srivastava.html" crc="278638185" seo="true" mt="1588449196862" redirect="true"/>
   <file name="covid19.html" crc="456739854" seo="true" mt="1588449709480" redirect="true"/>
-  <file name="tinkering--anmol-srivastava.html" crc="3793297025" seo="true" mt="1588450349245" redirect="true"/>
+  <file name="tinkering--anmol-srivastava.html" crc="4060719061" seo="true" mt="1588569060170" redirect="true"/>
   <file name="comics--anmol-srivastava.html" crc="4171131286" seo="true" mt="1588449196862" redirect="true"/>
 </manifest>
