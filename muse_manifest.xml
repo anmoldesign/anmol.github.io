@@ -1,15 +1,16 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="anmolsrivastava.in" resolutions="1x" timestamp="1592129066094">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="anmolsrivastava.in" resolutions="1x" timestamp="1595873629205">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4246611020" ref="publications:tinkering--anmol-srivastava:comics--anmol-srivastava:covid19:courses--anmol-srivastava:awards--anmol-srivastava:projects:index"/>
-    <file name="publications.css" crc="4146493382" ref="publications"/>
-    <file name="tinkering--anmol-srivastava.css" crc="335383489" ref="tinkering--anmol-srivastava"/>
+    <file name="master_a-master.css" crc="4107891659" ref="awards--anmol-srivastava:tinkering--anmol-srivastava:comics--anmol-srivastava:covid19:index:projects:publications:gallery--anmol-srivastava:courses--anmol-srivastava"/>
+    <file name="awards--anmol-srivastava.css" crc="3875286396" ref="awards--anmol-srivastava"/>
+    <file name="tinkering--anmol-srivastava.css" crc="324988267" ref="tinkering--anmol-srivastava"/>
     <file name="comics--anmol-srivastava.css" crc="392016236" ref="comics--anmol-srivastava"/>
-    <file name="covid19.css" crc="520196371" ref="covid19"/>
-    <file name="courses--anmol-srivastava.css" crc="508259422" ref="courses--anmol-srivastava"/>
-    <file name="awards--anmol-srivastava.css" crc="3955224783" ref="awards--anmol-srivastava"/>
-    <file name="projects.css" crc="434593221" ref="projects"/>
+    <file name="covid19.css" crc="490271510" ref="covid19"/>
     <file name="index.css" crc="3783038261" ref="index"/>
+    <file name="projects.css" crc="434593221" ref="projects"/>
+    <file name="publications.css" crc="4035800560" ref="publications"/>
+    <file name="gallery--anmol-srivastava.css" crc="3835226365" ref="gallery--anmol-srivastava"/>
+    <file name="courses--anmol-srivastava.css" crc="508259422" ref="courses--anmol-srivastava"/>
   </folder>
   <folder name="assets">
     <file name="accs16.pdf" crc="3836658651" seo="true" mt="1560855102000"/>
@@ -20,12 +21,12 @@
     <file name="anmolsrivastava_poster2.pdf" crc="3901595640" seo="true" mt="1588570218000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:projects:awards--anmol-srivastava:publications:courses--anmol-srivastava:covid19:tinkering--anmol-srivastava:comics--anmol-srivastava"/>
-    <file name="museutils.js" crc="340535759" ref="index:projects:awards--anmol-srivastava:publications:courses--anmol-srivastava:covid19:tinkering--anmol-srivastava:comics--anmol-srivastava"/>
-    <file name="whatinput.js" crc="86476730" ref="index:projects:awards--anmol-srivastava:publications:courses--anmol-srivastava:covid19:tinkering--anmol-srivastava:comics--anmol-srivastava"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:projects:awards--anmol-srivastava:publications:courses--anmol-srivastava:covid19:tinkering--anmol-srivastava:comics--anmol-srivastava"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:projects:awards--anmol-srivastava:publications:courses--anmol-srivastava:covid19:tinkering--anmol-srivastava:comics--anmol-srivastava"/>
-    <file name="require.js" crc="7928878" ref="index:projects:awards--anmol-srivastava:publications:courses--anmol-srivastava:covid19:tinkering--anmol-srivastava:comics--anmol-srivastava"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:projects:awards--anmol-srivastava:publications:courses--anmol-srivastava:covid19:tinkering--anmol-srivastava:comics--anmol-srivastava:gallery--anmol-srivastava"/>
+    <file name="museutils.js" crc="340535759" ref="index:projects:awards--anmol-srivastava:publications:courses--anmol-srivastava:covid19:tinkering--anmol-srivastava:comics--anmol-srivastava:gallery--anmol-srivastava"/>
+    <file name="whatinput.js" crc="86476730" ref="index:projects:awards--anmol-srivastava:publications:courses--anmol-srivastava:covid19:tinkering--anmol-srivastava:comics--anmol-srivastava:gallery--anmol-srivastava"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:projects:awards--anmol-srivastava:publications:courses--anmol-srivastava:covid19:tinkering--anmol-srivastava:comics--anmol-srivastava:gallery--anmol-srivastava"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:projects:awards--anmol-srivastava:publications:courses--anmol-srivastava:covid19:tinkering--anmol-srivastava:comics--anmol-srivastava:gallery--anmol-srivastava"/>
+    <file name="require.js" crc="7928878" ref="index:projects:awards--anmol-srivastava:publications:courses--anmol-srivastava:covid19:tinkering--anmol-srivastava:comics--anmol-srivastava:gallery--anmol-srivastava"/>
     <file name="webpro.js" crc="4059564322" ref="tinkering--anmol-srivastava"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="tinkering--anmol-srivastava"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="tinkering--anmol-srivastava"/>
@@ -175,12 +176,13 @@
       <caption webpage="tinkering--anmol-srivastava" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="188982919" seo="true" mt="1592111328404" redirect="true"/>
-  <file name="projects.html" crc="3993350089" seo="true" mt="1592119399908" redirect="true"/>
-  <file name="awards--anmol-srivastava.html" crc="407171650" seo="true" mt="1592129045176" redirect="true"/>
-  <file name="publications.html" crc="148983049" seo="true" mt="1592120096685" redirect="true"/>
-  <file name="courses--anmol-srivastava.html" crc="35877229" seo="true" mt="1592120184975" redirect="true"/>
-  <file name="covid19.html" crc="4212004545" seo="true" mt="1588449709480" redirect="true"/>
-  <file name="tinkering--anmol-srivastava.html" crc="328839798" seo="true" mt="1592120483887" redirect="true"/>
-  <file name="comics--anmol-srivastava.html" crc="4171131286" seo="true" mt="1588449196862" redirect="true"/>
+  <file name="index.html" crc="302828880" seo="true" mt="1592111328404" redirect="true"/>
+  <file name="projects.html" crc="433569062" seo="true" mt="1592119399908" redirect="true"/>
+  <file name="awards--anmol-srivastava.html" crc="4055629141" seo="true" mt="1592129045176" redirect="true"/>
+  <file name="publications.html" crc="221915202" seo="true" mt="1595873532490" redirect="true"/>
+  <file name="courses--anmol-srivastava.html" crc="4140103634" seo="true" mt="1592120184975" redirect="true"/>
+  <file name="covid19.html" crc="3973723957" seo="true" mt="1588449709480" redirect="true"/>
+  <file name="tinkering--anmol-srivastava.html" crc="4266579188" seo="true" mt="1595873609679" redirect="true"/>
+  <file name="comics--anmol-srivastava.html" crc="3994900010" seo="true" mt="1588449196862" redirect="true"/>
+  <file name="gallery--anmol-srivastava.html" crc="3829639117" seo="true" mt="1595872429517" redirect="true"/>
 </manifest>
