@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="anmolsrivastava.in" resolutions="1x" timestamp="1606573548186">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="anmolsrivastava.in" resolutions="1x" timestamp="1606575874881">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="4246611020" ref="comics--anmol-srivastava:covid19:gallery--anmol-srivastava:awards--anmol-srivastava:projects:publications:courses--anmol-srivastava:index:tinkering--anmol-srivastava"/>
@@ -9,7 +9,7 @@
     <file name="projects.css" crc="3918132024" ref="projects"/>
     <file name="publications.css" crc="130230968" ref="publications"/>
     <file name="courses--anmol-srivastava.css" crc="508259422" ref="courses--anmol-srivastava"/>
-    <file name="index.css" crc="151273681" ref="index"/>
+    <file name="index.css" crc="3979504122" ref="index"/>
     <file name="tinkering--anmol-srivastava.css" crc="157403414" ref="tinkering--anmol-srivastava"/>
   </folder>
   <folder name="assets">
@@ -176,7 +176,7 @@
       <caption webpage="tinkering--anmol-srivastava" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="71599317" seo="true" mt="1606573533305" redirect="true"/>
+  <file name="index.html" crc="310976456" seo="true" mt="1606575846915" redirect="true"/>
   <file name="projects.html" crc="324980720" seo="true" mt="1605802570233" redirect="true"/>
   <file name="awards--anmol-srivastava.html" crc="532154575" seo="true" mt="1592129045176" redirect="true"/>
   <file name="publications.html" crc="4095289343" seo="true" mt="1606573272723" redirect="true"/>
