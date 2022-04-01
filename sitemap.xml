@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://anmolsrivastava.in/index.html</loc>
-    <lastmod>2021-08-05</lastmod>
+    <lastmod>2022-04-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -10,8 +10,62 @@
     </image:image>
   </url>
   <url>
+    <loc>http://anmolsrivastava.in/awards--anmol-srivastava.html</loc>
+    <lastmod>2022-04-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://anmolsrivastava.in/images/pasted%20image%20485x556.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://anmolsrivastava.in/images/design%20awards_finalist%20badge%202018.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://anmolsrivastava.in/images/pasted%20image%20603x511.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://anmolsrivastava.in/images/pasted%20image%20548x263.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://anmolsrivastava.in/images/pasted%20image%20547x221.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://anmolsrivastava.in/images/pasted%20image%20600x350.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://anmolsrivastava.in/publications.html</loc>
+    <lastmod>2022-04-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://anmolsrivastava.in/gallery--anmol-srivastava.html</loc>
+    <lastmod>2022-04-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://anmolsrivastava.in/comics--anmol-srivastava.html</loc>
+    <lastmod>2022-04-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://anmolsrivastava.in/tutorials.html</loc>
+    <lastmod>2022-04-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://anmolsrivastava.in/covid19.html</loc>
+    <lastmod>2022-04-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://anmolsrivastava.in/projects.html</loc>
-    <lastmod>2021-06-30</lastmod>
+    <lastmod>2022-04-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -46,44 +100,14 @@
     </image:image>
   </url>
   <url>
-    <loc>http://anmolsrivastava.in/awards--anmol-srivastava.html</loc>
-    <lastmod>2020-06-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://anmolsrivastava.in/images/pasted%20image%20485x556.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://anmolsrivastava.in/images/design%20awards_finalist%20badge%202018.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://anmolsrivastava.in/images/pasted%20image%20603x511.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://anmolsrivastava.in/images/pasted%20image%20548x263.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://anmolsrivastava.in/images/pasted%20image%20547x221.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://anmolsrivastava.in/images/pasted%20image%20600x350.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://anmolsrivastava.in/publications.html</loc>
-    <lastmod>2021-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://anmolsrivastava.in/comics--anmol-srivastava.html</loc>
-    <lastmod>2020-05-03</lastmod>
+    <loc>http://anmolsrivastava.in/courses--anmol-srivastava.html</loc>
+    <lastmod>2022-04-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://anmolsrivastava.in/tinkering--anmol-srivastava.html</loc>
-    <lastmod>2020-11-04</lastmod>
+    <lastmod>2022-04-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -172,20 +196,14 @@
     </image:image>
   </url>
   <url>
-    <loc>http://anmolsrivastava.in/gallery--anmol-srivastava.html</loc>
-    <lastmod>2020-07-27</lastmod>
+    <loc>http://anmolsrivastava.in/assets/anmolsrivastava_poster.pdf</loc>
+    <lastmod>2019-09-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://anmolsrivastava.in/courses--anmol-srivastava.html</loc>
-    <lastmod>2021-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://anmolsrivastava.in/covid19.html</loc>
-    <lastmod>2020-05-03</lastmod>
+    <loc>http://anmolsrivastava.in/assets/icmi16_dc.pdf</loc>
+    <lastmod>2019-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -202,26 +220,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://anmolsrivastava.in/assets/icmi16_dc.pdf</loc>
-    <lastmod>2019-06-18</lastmod>
+    <loc>http://anmolsrivastava.in/assets/p_v4.tif</loc>
+    <lastmod>2020-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://anmolsrivastava.in/assets/icmi16_demo.pdf</loc>
     <lastmod>2019-06-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://anmolsrivastava.in/assets/anmolsrivastava_poster.pdf</loc>
-    <lastmod>2019-09-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://anmolsrivastava.in/assets/p_v4.tif</loc>
-    <lastmod>2020-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
