@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="anmolsrivastava.in" resolutions="1x" timestamp="1656839112518">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="anmolsrivastava.in" resolutions="1x" timestamp="1656864850686">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3971797084" ref="tinkering--anmol-srivastava:publications:comics--anmol-srivastava:tutorials:awards--anmol-srivastava:covid19:courses--anmol-srivastava:projects:gallery--anmol-srivastava:index"/>
@@ -6,7 +6,7 @@
     <file name="publications.css" crc="3977276560" ref="publications"/>
     <file name="comics--anmol-srivastava.css" crc="392016236" ref="comics--anmol-srivastava"/>
     <file name="tutorials.css" crc="141166392" ref="tutorials"/>
-    <file name="awards--anmol-srivastava.css" crc="3955224783" ref="awards--anmol-srivastava"/>
+    <file name="awards--anmol-srivastava.css" crc="46705897" ref="awards--anmol-srivastava"/>
     <file name="covid19.css" crc="520196371" ref="covid19"/>
     <file name="courses--anmol-srivastava.css" crc="188530727" ref="courses--anmol-srivastava"/>
     <file name="projects.css" crc="53209464" ref="projects"/>
@@ -179,7 +179,7 @@
   </folder>
   <file name="index.html" crc="243229946" seo="true" mt="1656839041589" redirect="true"/>
   <file name="projects.html" crc="133047112" seo="true" mt="1648806499319" redirect="true"/>
-  <file name="awards--anmol-srivastava.html" crc="3801718108" seo="true" mt="1648806499319" redirect="true"/>
+  <file name="awards--anmol-srivastava.html" crc="3958946627" seo="true" mt="1656864832536" redirect="true"/>
   <file name="publications.html" crc="490697090" seo="true" mt="1656834045585" redirect="true"/>
   <file name="courses--anmol-srivastava.html" crc="143450918" seo="true" mt="1656838933757" redirect="true"/>
   <file name="covid19.html" crc="103294730" seo="true" mt="1648806499319" redirect="true"/>
