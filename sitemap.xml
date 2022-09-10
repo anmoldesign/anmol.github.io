@@ -53,9 +53,12 @@
   </url>
   <url>
     <loc>http://anmolsrivastava.in/tutorials.html</loc>
-    <lastmod>2022-09-01</lastmod>
+    <lastmod>2022-09-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://anmolsrivastava.in/images/gme.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://anmolsrivastava.in/covid19.html</loc>
