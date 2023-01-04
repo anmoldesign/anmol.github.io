@@ -1,17 +1,17 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="anmolsrivastava.in" resolutions="1x" timestamp="1669969535808">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="anmolsrivastava.in" resolutions="1x" timestamp="1672844482481">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="3971797084" ref="publications:index:comics--anmol-srivastava:courses--anmol-srivastava:gallery--anmol-srivastava:tinkering--anmol-srivastava:covid19:awards--anmol-srivastava:tutorials:projects"/>
-    <file name="publications.css" crc="3880591741" ref="publications"/>
-    <file name="index.css" crc="135222223" ref="index"/>
-    <file name="comics--anmol-srivastava.css" crc="392016236" ref="comics--anmol-srivastava"/>
-    <file name="courses--anmol-srivastava.css" crc="1070975" ref="courses--anmol-srivastava"/>
+    <file name="master_a-master.css" crc="3971797084" ref="gallery--anmol-srivastava:courses--anmol-srivastava:comics--anmol-srivastava:projects:index:publications:tutorials:awards--anmol-srivastava:covid19:tinkering--anmol-srivastava"/>
     <file name="gallery--anmol-srivastava.css" crc="3835226365" ref="gallery--anmol-srivastava"/>
-    <file name="tinkering--anmol-srivastava.css" crc="341260467" ref="tinkering--anmol-srivastava"/>
-    <file name="covid19.css" crc="520196371" ref="covid19"/>
-    <file name="awards--anmol-srivastava.css" crc="46705897" ref="awards--anmol-srivastava"/>
-    <file name="tutorials.css" crc="397135294" ref="tutorials"/>
+    <file name="courses--anmol-srivastava.css" crc="1070975" ref="courses--anmol-srivastava"/>
+    <file name="comics--anmol-srivastava.css" crc="392016236" ref="comics--anmol-srivastava"/>
     <file name="projects.css" crc="53209464" ref="projects"/>
+    <file name="index.css" crc="4096881890" ref="index"/>
+    <file name="publications.css" crc="3880591741" ref="publications"/>
+    <file name="tutorials.css" crc="397135294" ref="tutorials"/>
+    <file name="awards--anmol-srivastava.css" crc="46705897" ref="awards--anmol-srivastava"/>
+    <file name="covid19.css" crc="520196371" ref="covid19"/>
+    <file name="tinkering--anmol-srivastava.css" crc="341260467" ref="tinkering--anmol-srivastava"/>
   </folder>
   <folder name="assets">
     <file name="accs16.pdf" crc="3836658651" seo="true" mt="1560855102000"/>
@@ -180,7 +180,7 @@
       <caption webpage="tutorials" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="82860618" seo="true" mt="1669969499255" redirect="true"/>
+  <file name="index.html" crc="4033564103" seo="true" mt="1672844437751" redirect="true"/>
   <file name="projects.html" crc="133047112" seo="true" mt="1648806499319" redirect="true"/>
   <file name="awards--anmol-srivastava.html" crc="3958946627" seo="true" mt="1656864832536" redirect="true"/>
   <file name="publications.html" crc="4007737324" seo="true" mt="1669967613405" redirect="true"/>
