@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="anmolsrivastava.in" resolutions="1x" timestamp="1704399117873">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="anmolsrivastava.in" resolutions="1x" timestamp="1704399419915">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3971797084" ref="index:gallery--anmol-srivastava:awards--anmol-srivastava:publications:courses--anmol-srivastava:covid19:comics--anmol-srivastava:projects:tutorials:tinkering--anmol-srivastava"/>
     <file name="index.css" crc="462251097" ref="index"/>
     <file name="gallery--anmol-srivastava.css" crc="3835226365" ref="gallery--anmol-srivastava"/>
-    <file name="awards--anmol-srivastava.css" crc="387005326" ref="awards--anmol-srivastava"/>
+    <file name="awards--anmol-srivastava.css" crc="78421085" ref="awards--anmol-srivastava"/>
     <file name="publications.css" crc="381500645" ref="publications"/>
     <file name="courses--anmol-srivastava.css" crc="100282927" ref="courses--anmol-srivastava"/>
     <file name="covid19.css" crc="520196371" ref="covid19"/>
@@ -182,7 +182,7 @@
   </folder>
   <file name="index.html" crc="3889837086" seo="true" mt="1704396198038" redirect="true"/>
   <file name="projects.html" crc="3824262870" seo="true" mt="1704399036414" redirect="true"/>
-  <file name="awards--anmol-srivastava.html" crc="3951009576" seo="true" mt="1704399056571" redirect="true"/>
+  <file name="awards--anmol-srivastava.html" crc="276026149" seo="true" mt="1704399405901" redirect="true"/>
   <file name="publications.html" crc="418319208" seo="true" mt="1704399068248" redirect="true"/>
   <file name="courses--anmol-srivastava.html" crc="72459026" seo="true" mt="1704398930363" redirect="true"/>
   <file name="covid19.html" crc="103294730" seo="true" mt="1648806499319" redirect="true"/>
